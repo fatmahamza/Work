@@ -1,0 +1,28 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+  background-color: #190037;  
+}
+
+.wrapper {
+  color: white;
+  background-color: #190037;
+  border: 5px solid lime;
+  border-radius: 15px;
+  margin: 100px auto;
+  padding: 20px 20px 20px 20px;
+  width: 600px;
+  text-align: center;
+}
+
+table {
+  text-align: center;
+  border: 5px solid white;
+  border-radius: 5px;
+  border-collapse: collapse;
+}
+
+td {
+  border: 1px solid;
+  width: 200px;
+  style: striped;
+}

@@ -1,0 +1,46 @@
+body{
+  padding: 20x;
+  background-image: url(http://daffodiltownship.com/wp-content/uploads/2014/04/Daffodil-Dickcissel.jpg)
+}
+h1, h2, h3 a{
+  font-weight: normal;
+  color: 0088dd;
+  margin: 0px;
+}
+h1{
+font-family: serif;
+font-size: 259%
+text shadow: 2px 2px 3px #66666:
+padding- bottom: 10px;
+}
+
+h2{
+font-family: Georgia, Times
+font-size: 350%
+text-shadow: 2px 2px 3px #666666;
+padding-bottom: 10px
+}
+h3{
+font-size: 250%
+}
+p{
+font-family: Arial, Verdana, Sans-serif;
+ p.thick {
+ font-weight: bold;
+}
+line-height: 1.4;
+color: #665544;
+}
+p.intro: first-line{
+font-weight: bold;
+}
+credits{
+font-style: italic;
+text-align: right
+}
+a{
+text-decoration: none;
+}
+a: hover{
+text-decoration: underline;
+}
